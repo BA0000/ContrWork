@@ -16,3 +16,17 @@ void ThreeLetter(string[] words, string[] newWords)
         }
     }
 }   
+
+void ShowArray(string[] words)
+{
+    for(int i = 0; i < words.Length; i++)
+    { 
+        Console.Write("  " + words[i]);
+    }
+    Console.WriteLine();
+}
+
+Console.Write("A new array of words with less than three letters: ");
+
+ThreeLetter(words, newWords);
+ShowArray(newWords);
