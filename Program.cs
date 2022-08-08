@@ -4,3 +4,15 @@
 string[] words = new string[10] {"A","long","time","ago","in","a","galaxy","far","far","away"};
 string[] newWords = new string[words.Length];
 
+void ThreeLetter(string[] words, string[] newWords)
+{   
+    int counter = 0;
+    for(int i = 0; i < words.Length; i++)
+    {
+        if(words[i].Length <= 3)
+        {
+          newWords[counter] = words[i];  
+          counter++;
+        }
+    }
+}   
