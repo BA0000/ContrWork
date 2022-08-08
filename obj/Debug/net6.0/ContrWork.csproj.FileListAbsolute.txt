@@ -1,0 +1,15 @@
+D:\Allprojects\AllRepos\ContrWork\bin\Debug\net6.0\ContrWork.exe
+D:\Allprojects\AllRepos\ContrWork\bin\Debug\net6.0\ContrWork.deps.json
+D:\Allprojects\AllRepos\ContrWork\bin\Debug\net6.0\ContrWork.runtimeconfig.json
+D:\Allprojects\AllRepos\ContrWork\bin\Debug\net6.0\ContrWork.dll
+D:\Allprojects\AllRepos\ContrWork\bin\Debug\net6.0\ContrWork.pdb
+D:\Allprojects\AllRepos\ContrWork\obj\Debug\net6.0\ContrWork.csproj.AssemblyReference.cache
+D:\Allprojects\AllRepos\ContrWork\obj\Debug\net6.0\ContrWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Allprojects\AllRepos\ContrWork\obj\Debug\net6.0\ContrWork.AssemblyInfoInputs.cache
+D:\Allprojects\AllRepos\ContrWork\obj\Debug\net6.0\ContrWork.AssemblyInfo.cs
+D:\Allprojects\AllRepos\ContrWork\obj\Debug\net6.0\ContrWork.csproj.CoreCompileInputs.cache
+D:\Allprojects\AllRepos\ContrWork\obj\Debug\net6.0\ContrWork.dll
+D:\Allprojects\AllRepos\ContrWork\obj\Debug\net6.0\refint\ContrWork.dll
+D:\Allprojects\AllRepos\ContrWork\obj\Debug\net6.0\ContrWork.pdb
+D:\Allprojects\AllRepos\ContrWork\obj\Debug\net6.0\ContrWork.genruntimeconfig.cache
+D:\Allprojects\AllRepos\ContrWork\obj\Debug\net6.0\ref\ContrWork.dll
